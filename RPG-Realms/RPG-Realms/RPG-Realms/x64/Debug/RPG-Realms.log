@@ -1,0 +1,7 @@
+﻿  RPG-Realms.cpp
+C:\Users\gavin\source\repos\RPG-Realms\RPG-Realms\RPG-Realms.cpp(44,14): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\gavin\source\repos\RPG-Realms\RPG-Realms\RPG-Realms.cpp(46,16): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\gavin\source\repos\RPG-Realms\RPG-Realms\RPG-Realms.cpp(287,2): warning C4102: 'CombatTop': unreferenced label
+C:\Users\gavin\source\repos\RPG-Realms\RPG-Realms\RPG-Realms.cpp(228,7): warning C4101: 'eDefended': unreferenced local variable
+C:\Users\gavin\source\repos\RPG-Realms\RPG-Realms\RPG-Realms.cpp(2357,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RPG-Realms.vcxproj -> C:\Users\gavin\source\repos\RPG-Realms\RPG-Realms\x64\Debug\RPG-Realms.exe
